@@ -1,6 +1,8 @@
 # Bendy prank
 Prank script for linux fans of BATIM
 
+![Image of Bendy](https://github.com/gazhay/bendyprank/blob/master/Bendy.png?raw=true)
+
 Download all the files to any directory.
 Execute the prank with something like
 
