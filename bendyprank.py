@@ -1,5 +1,5 @@
 /*
-    Bendy and the Ink Machine, BATIM, and all grpahics and sounds are © The Meatly
+    Bendy and the Ink Machine, BATIM, and all graphics and sounds are © The Meatly
     NOT AN OFFICIAL BENDY AND THE INK MACHINE PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH THEMEATLY GAMES, LTD.
 
     Code below released under GPLv2
