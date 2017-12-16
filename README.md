@@ -6,7 +6,7 @@ Prank script for linux fans of BATIM
 Download all the files to any directory.
 Execute the prank with something like
 
-````nohup python bendyprank.py````
+````nohup python bendyprank.py &````
 
 Now, at random every 5-25 minutes, bendy will pop up on your monitor.
 
